@@ -1,0 +1,13 @@
+.btn{
+    background-color: rgb(0, 0, 0);
+    width: 10%;
+    padding: 1%;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+.btn-dark{
+    background-color: azure;
+    color: black;
+
+}
